@@ -402,6 +402,7 @@ Object.assign(obj, null) === obj // true
 ```javascript
 const v1 = 'abc';
 const v2 = true;
+eee
 const v3 = 10;
 
 const obj = Object.assign({}, v1, v2, v3);
